@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <link rel="Styles.css">
+  <Meta name="author">
+  <title>Classic Rock</title>
+</head>
+
+<body>
+  <header>Classic Rock</header>
+<a href=Queen>Queen</a>
+<a href=The-Beatles.html>The Beatles </a>
+<a href=Billy-Joel.html>Billy Joel </a>
+<a href="/Elton-John.html">Elton John</a>
+</body> </html>
