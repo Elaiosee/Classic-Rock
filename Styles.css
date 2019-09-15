@@ -1,7 +1,4 @@
 @font-face {
-  font-family: "myFont";
-  src: url("myFont.woff");
-}
-html {
-  font-family: "myFont", "Bitstream Vera Serif", serif;
+  font-family: "'Gochi Hand', cursive;";
+  src: url("https://fonts.google.com/");
 }
