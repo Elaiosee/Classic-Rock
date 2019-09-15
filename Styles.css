@@ -1,4 +1,7 @@
-p{
-  color: red;
-  font-family: 'Orbitron', sans-serif;
+@font-face {
+  font-family: "myFont";
+  src: url("myFont.woff");
+}
+html {
+  font-family: "myFont", "Bitstream Vera Serif", serif;
 }
